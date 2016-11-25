@@ -1,0 +1,9 @@
+c:\users\gayanr\documents\visual studio 2017\Projects\LetterCalculator\LetterCalculator\bin\Debug\LetterCalculator.exe.config
+c:\users\gayanr\documents\visual studio 2017\Projects\LetterCalculator\LetterCalculator\bin\Debug\LetterCalculator.exe
+c:\users\gayanr\documents\visual studio 2017\Projects\LetterCalculator\LetterCalculator\bin\Debug\LetterCalculator.pdb
+c:\users\gayanr\documents\visual studio 2017\Projects\LetterCalculator\LetterCalculator\obj\Debug\LetterCalculator.csprojResolveAssemblyReference.cache
+c:\users\gayanr\documents\visual studio 2017\Projects\LetterCalculator\LetterCalculator\obj\Debug\LetterCalculator.FormCounter.resources
+c:\users\gayanr\documents\visual studio 2017\Projects\LetterCalculator\LetterCalculator\obj\Debug\LetterCalculator.Properties.Resources.resources
+c:\users\gayanr\documents\visual studio 2017\Projects\LetterCalculator\LetterCalculator\obj\Debug\LetterCalculator.csproj.GenerateResource.Cache
+c:\users\gayanr\documents\visual studio 2017\Projects\LetterCalculator\LetterCalculator\obj\Debug\LetterCalculator.exe
+c:\users\gayanr\documents\visual studio 2017\Projects\LetterCalculator\LetterCalculator\obj\Debug\LetterCalculator.pdb
